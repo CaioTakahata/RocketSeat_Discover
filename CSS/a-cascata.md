@@ -26,3 +26,9 @@ Também temos os classes e attribute selectors, com valor de 10, ou seja, são m
 O segundo mais forte, ID selector, com um valor de 100, vence todos os selectors anteriores.
 
 Por fim, temos o inline, com o valor 1000, quaisquer desses selectors anteriormente citado
+
+### A regra !important
+
+* cuidade, evite o uso
+* não é consiferado uma boa prática
+* quebra o fluxo natural da cascata
